@@ -1,8 +1,0 @@
-python-telegram-bot[job-queue, pickle]>=21,<22
-SQLAlchemy>=2.0,<3.0
-# Choose one driver:
-pysqlite3 # For SQLite (often included, but can be explicit)
-# psycopg2-binary # For PostgreSQL
-redis>=5.0,<6.0
-bcrypt>=4.1,<5.0
-python-dotenv>=1.0,<2.0
